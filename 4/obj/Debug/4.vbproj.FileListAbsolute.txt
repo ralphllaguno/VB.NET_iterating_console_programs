@@ -1,0 +1,21 @@
+C:\Users\otokomae ralph\Desktop\CaseStudy3_Llaguno\4\bin\Debug\4.exe.config
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3\4\bin\Debug\4.exe.config
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3\4\obj\Debug\4.vbprojResolveAssemblyReference.cache
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3\4\obj\Debug\_4.Resources.resources
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3\4\obj\Debug\4.vbproj.GenerateResource.Cache
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3\4\bin\Debug\4.exe
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3\4\bin\Debug\4.pdb
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3\4\bin\Debug\4.xml
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3\4\obj\Debug\4.exe
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3\4\obj\Debug\4.xml
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3\4\obj\Debug\4.pdb
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\4\bin\Debug\4.exe.config
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\4\obj\Debug\4.exe
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\4\obj\Debug\4.xml
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\4\obj\Debug\4.pdb
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\4\bin\Debug\4.exe
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\4\bin\Debug\4.pdb
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\4\bin\Debug\4.xml
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\4\obj\Debug\4.vbprojResolveAssemblyReference.cache
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\4\obj\Debug\_4.Resources.resources
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\4\obj\Debug\4.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\CaseStudy3_Llaguno\bin\Debug\CaseStudy3_Llaguno.exe.config
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\CaseStudy3_Llaguno\obj\Debug\CaseStudy3_Llaguno.exe
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\CaseStudy3_Llaguno\obj\Debug\CaseStudy3_Llaguno.xml
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\CaseStudy3_Llaguno\obj\Debug\CaseStudy3_Llaguno.pdb
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\CaseStudy3_Llaguno\bin\Debug\CaseStudy3_Llaguno.exe
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\CaseStudy3_Llaguno\bin\Debug\CaseStudy3_Llaguno.pdb
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\CaseStudy3_Llaguno\bin\Debug\CaseStudy3_Llaguno.xml
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\CaseStudy3_Llaguno\obj\Debug\Overall.vbprojResolveAssemblyReference.cache
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\CaseStudy3_Llaguno\obj\Debug\CaseStudy3_Llaguno.Resources.resources
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\CaseStudy3_Llaguno\obj\Debug\Overall.vbproj.GenerateResource.Cache

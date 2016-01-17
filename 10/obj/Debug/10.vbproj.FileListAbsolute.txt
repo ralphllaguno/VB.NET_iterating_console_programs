@@ -1,0 +1,9 @@
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\10\bin\Debug\10.exe.config
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\10\bin\Debug\10.exe
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\10\bin\Debug\10.pdb
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\10\bin\Debug\10.xml
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\10\obj\Debug\_10.Resources.resources
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\10\obj\Debug\10.vbproj.GenerateResource.Cache
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\10\obj\Debug\10.exe
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\10\obj\Debug\10.xml
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\3 - iterating statement\10\obj\Debug\10.pdb

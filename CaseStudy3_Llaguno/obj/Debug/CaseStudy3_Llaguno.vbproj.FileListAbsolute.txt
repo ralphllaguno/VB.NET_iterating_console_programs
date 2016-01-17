@@ -1,0 +1,10 @@
+c:\users\otokomae ralph\desktop\CaseStudy3_Llaguno\CaseStudy3_Llaguno\bin\Debug\CaseStudy3_Llaguno.exe.config
+c:\users\otokomae ralph\desktop\CaseStudy3_Llaguno\CaseStudy3_Llaguno\bin\Debug\CaseStudy3_Llaguno.exe
+c:\users\otokomae ralph\desktop\CaseStudy3_Llaguno\CaseStudy3_Llaguno\bin\Debug\CaseStudy3_Llaguno.pdb
+c:\users\otokomae ralph\desktop\CaseStudy3_Llaguno\CaseStudy3_Llaguno\bin\Debug\CaseStudy3_Llaguno.xml
+c:\users\otokomae ralph\desktop\CaseStudy3_Llaguno\CaseStudy3_Llaguno\obj\Debug\CaseStudy3_Llaguno.vbprojResolveAssemblyReference.cache
+c:\users\otokomae ralph\desktop\CaseStudy3_Llaguno\CaseStudy3_Llaguno\obj\Debug\CaseStudy3_Llaguno.Resources.resources
+c:\users\otokomae ralph\desktop\CaseStudy3_Llaguno\CaseStudy3_Llaguno\obj\Debug\CaseStudy3_Llaguno.vbproj.GenerateResource.Cache
+c:\users\otokomae ralph\desktop\CaseStudy3_Llaguno\CaseStudy3_Llaguno\obj\Debug\CaseStudy3_Llaguno.exe
+c:\users\otokomae ralph\desktop\CaseStudy3_Llaguno\CaseStudy3_Llaguno\obj\Debug\CaseStudy3_Llaguno.xml
+c:\users\otokomae ralph\desktop\CaseStudy3_Llaguno\CaseStudy3_Llaguno\obj\Debug\CaseStudy3_Llaguno.pdb
